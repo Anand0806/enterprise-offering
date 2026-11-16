@@ -1,4 +1,4 @@
-# Enterprise Offering prototype
+# Enterprise Offering 
 
 Clickable end-to-end prototype for the **Enterprise Offering BRD (v1.0, Oct 12, 2026)**. Brands onboard enterprise clients in Reach Central. Enterprises manage employee lines in Enterprise Central. Employees' family members link their own accounts as associates to get discounted plans.
 
